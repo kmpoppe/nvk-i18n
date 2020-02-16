@@ -1,0 +1,15 @@
+{
+	"app-title": "Name distribution map",
+	"mapbox.add": "Add",
+	"mapbox.add_howto": "Lookup a surname, choose the recordset and click \"Add\"",
+	"mapbox.legend": "Legend",
+	"mapbox.name": "Surname",
+	"mapbox.remove_howto": "To remove a surname, simply click on the entry in the caption",
+	"mapbox.your_name": "your surname...",
+	"navbar.about": "About",
+	"navbar.compgen": "Society for Computergenealogy",
+	"navbar.dataprotection": "Dataprotection",
+	"navbar.imprint": "Imprint",
+	"navbar.language": "Language"
+}
+
