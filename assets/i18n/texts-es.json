@@ -23,5 +23,7 @@
   "language.ro": "Rumano",
   "language.ru": "Ruso",
   "language.sl": "Esloveno",
-  "language.se": "Sueco"
+  "language.se": "Sueco",
+  "language.lt": "Lituano",
+  "mapbox.remove_howto": "Para borrar el apellido, haga click en la entrada de la leyenda"
 }
